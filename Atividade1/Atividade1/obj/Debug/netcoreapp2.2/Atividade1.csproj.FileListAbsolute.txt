@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\bin\Debug\netcoreapp2.2\Atividade1.deps.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\bin\Debug\netcoreapp2.2\Atividade1.runtimeconfig.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\bin\Debug\netcoreapp2.2\Atividade1.runtimeconfig.dev.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\bin\Debug\netcoreapp2.2\Atividade1.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\bin\Debug\netcoreapp2.2\Atividade1.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.AssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Atividade1\Atividade1\obj\Debug\netcoreapp2.2\Atividade1.pdb
