@@ -1,0 +1,64 @@
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.deps.json
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.json
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.dev.json
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.Views.dll
+C:\Users\davil\source\repos\Agenda\Agenda\bin\Debug\netcoreapp2.2\Agenda.Views.pdb
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.csprojAssemblyReference.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorAssemblyInfo.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorAssemblyInfo.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfoInputs.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfo.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.TagHelpers.input.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.TagHelpers.output.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorCoreGenerate.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorTargetAssemblyInfo.cache
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorTargetAssemblyInfo.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.Views.pdb
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Agenda.csproj.CopyComplete
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Create.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Delete.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Details.g.cshtml.cs
+C:\Users\davil\source\repos\Agenda\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Edit.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.deps.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.runtimeconfig.dev.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.Views.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\bin\Debug\netcoreapp2.2\Agenda.Views.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorAssemblyInfo.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorAssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.AssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.TagHelpers.input.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.TagHelpers.output.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorCoreGenerate.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Create.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Delete.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Details.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Edit.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorTargetAssemblyInfo.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.RazorTargetAssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.Views.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\contact-schedule-ASP.NET\Agenda\obj\Debug\netcoreapp2.2\Agenda.csproj.CopyComplete
