@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorAssemblyInfo.cache
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorAssemblyInfo.cs
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.deps.json
+C:\Users\aluno\source\repos\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.runtimeconfig.json
+C:\Users\aluno\source\repos\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.dll
+C:\Users\aluno\source\repos\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.pdb
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorTargetAssemblyInfo.cache
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.dll
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.pdb
+C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.csprojAssemblyReference.cache
