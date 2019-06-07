@@ -90,6 +90,7 @@ namespace Acoes.api.Controllers
             {
                 return BadRequest(ModelState);
             }
+            acao.Date = DateTime.Now;
 
             _context.Acoes.Add(acao);
             await _context.SaveChangesAsync();

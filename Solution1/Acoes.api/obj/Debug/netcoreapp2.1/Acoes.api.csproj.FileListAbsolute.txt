@@ -12,3 +12,17 @@ C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.ap
 C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.dll
 C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.pdb
 C:\Users\aluno\source\repos\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.deps.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.runtimeconfig.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.runtimeconfig.dev.json
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\bin\Debug\netcoreapp2.1\Acoes.api.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorAssemblyInfo.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorAssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.AssemblyInfo.cs
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.RazorTargetAssemblyInfo.cache
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.dll
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.pdb
+C:\Users\gusta\Documents\Gustavo 2019.1\Dotnet-2019.1\Solution1\Acoes.api\obj\Debug\netcoreapp2.1\Acoes.api.csprojAssemblyReference.cache

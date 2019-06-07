@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Fundo de Ações"
+              xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage">
+
+    <StackLayout Margin="10">
+
+        <StackLayout Margin="0,0,0,15" HorizontalOptions="Center">
+            <Label TextColor="CadetBlue" Text="Carteira de Fundos" FontSize="20" />
+        </StackLayout>
+
+        <Grid AbsoluteLayout.LayoutBounds="0,1,1,1" AbsoluteLayout.LayoutFlags="All">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Entry x:Name="StockFund"
+                   Placeholder="Fundo"
+                   VerticalOptions="EndAndExpand"
+                   HorizontalOptions="CenterAndExpand"
+                   Grid.Row="0"
+                   FontSize="15"
+                   Text="{Binding Name}"
+                   Grid.Column="0"
+                   WidthRequest="300"/>
+
+            <Entry x:Name="Amount"
+                   Placeholder="Quantidade"
+                   FontSize="15"
+                   Grid.Row="0"
+                   Grid.Column="1"
+                   VerticalOptions="FillAndExpand"/>
+        </Grid>
+
+        <StackLayout>
+            <Entry x:Name="Price"
+                   Placeholder="Preço unitário"
+                   FontSize="15"
+                   VerticalOptions="FillAndExpand"
+                   HorizontalOptions="FillAndExpand"/>
+
+            <Button Text="Salvar"
+                    TextColor="White"
+                    FontSize="15"
+                    BackgroundColor="DeepSkyBlue"
+                    HorizontalOptions="End"
+                    Clicked="Button_Clicked"
+                    WidthRequest="80"/>
+
+        </StackLayout>
+
+        <StackLayout>
+            <ListView x:Name="lstItens">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="4*"/>
+                                    <ColumnDefinition Width="4*"/>
+                                    <ColumnDefinition Width="4*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label HorizontalOptions="Center" VerticalOptions="Center" TextColor="CadetBlue" Grid.Column="0" Text="{Binding StockFund}" />
+                                <Label HorizontalOptions="Center" VerticalOptions="Center" TextColor="CadetBlue" Grid.Column="1" Text="{Binding Amount}" />
+                                <Label HorizontalOptions="Center" VerticalOptions="Center" TextColor="CadetBlue" Grid.Column="2" Text="{Binding Price}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

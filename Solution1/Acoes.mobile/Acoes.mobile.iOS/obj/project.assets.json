@@ -691,7 +691,7 @@
       ]
     },
     "Xamarin.Essentials/1.0.1": {
-      "sha512": "TUsMSXqdLEZlx0O3EcWMwOF5e8X3Gh0GX28FlH3q8iyKAQBYd8tV+Ja7tHMplf7D8V4NVCG9ELqx2nk/jPWPew==",
+      "sha512": "cGSje2LlYsCdscPt2zAG4e0Zzr08zc21Cj4DAMub3GR37lc/vzAVwGxco8NeCSzcZs147wYbXkFCXwOr4LUO9A==",
       "type": "package",
       "path": "xamarin.essentials/1.0.1",
       "files": [
@@ -725,7 +725,7 @@
       ]
     },
     "Xamarin.Forms/3.6.0.264807": {
-      "sha512": "T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
+      "sha512": "PbnXpStyxNYJzPrXXMW17F4YeMsFAs6YT9LL2vxObDWCGtaKkLia4UyBPF3Qbhy+lQPeap/ijV1Rlvasp4DFiA==",
       "type": "package",
       "path": "xamarin.forms/3.6.0.264807",
       "files": [
@@ -903,26 +903,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aluno\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\source\\repos\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\Acoes.mobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Documents\\Gustavo 2019.1\\Dotnet-2019.1\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\Acoes.mobile.iOS.csproj",
       "projectName": "Acoes.mobile.iOS",
-      "projectPath": "C:\\Users\\aluno\\source\\repos\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\Acoes.mobile.iOS.csproj",
-      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\source\\repos\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\obj\\",
+      "projectPath": "C:\\Users\\gusta\\Documents\\Gustavo 2019.1\\Dotnet-2019.1\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\Acoes.mobile.iOS.csproj",
+      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gusta\\Documents\\Gustavo 2019.1\\Dotnet-2019.1\\Solution1\\Acoes.mobile\\Acoes.mobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -934,8 +929,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\aluno\\source\\repos\\Solution1\\Acoes.mobile\\Acoes.mobile\\Acoes.mobile.csproj": {
-              "projectPath": "C:\\Users\\aluno\\source\\repos\\Solution1\\Acoes.mobile\\Acoes.mobile\\Acoes.mobile.csproj"
+            "C:\\Users\\gusta\\Documents\\Gustavo 2019.1\\Dotnet-2019.1\\Solution1\\Acoes.mobile\\Acoes.mobile\\Acoes.mobile.csproj": {
+              "projectPath": "C:\\Users\\gusta\\Documents\\Gustavo 2019.1\\Dotnet-2019.1\\Solution1\\Acoes.mobile\\Acoes.mobile\\Acoes.mobile.csproj"
             }
           }
         }
